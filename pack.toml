@@ -1,0 +1,16 @@
+name = "Memory Leak"
+author = "Ory"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "74bba93f7e279922e2a3b01175b1ef8248f05bc820b95c3beea722ae27122b32"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "comforts:sleeping_bag",
+    "pattern": [
+      "   ",
+      "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:air"
+        },
+      "w": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "comforts:air"
+    }
+  }
