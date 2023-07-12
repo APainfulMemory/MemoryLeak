@@ -1,0 +1,13 @@
+name = "Launchers"
+filename = "launchers-mod-3.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11cebbc96d07a3ad7f14a9ba951fd6a4ac7db0bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4637746
+project-id = 372835
