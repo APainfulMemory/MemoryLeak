@@ -1,0 +1,13 @@
+name = "Panda's Falling Tree's"
+filename = "fallingtrees-1.19.3-1.20.1+0.5.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/g2qlhANi/fallingtrees-1.19.3-1.20.1%2B0.5.2-beta.jar"
+hash-format = "sha1"
+hash = "8f4a031da9c1dc2bdcd5a38e18f82812ec2c9ef4"
+
+[update]
+[update.modrinth]
+mod-id = "i2kUe4lq"
+version = "g2qlhANi"
